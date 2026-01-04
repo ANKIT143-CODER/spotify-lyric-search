@@ -79,7 +79,7 @@ pip install -r requirements.txt
 ## ▶️  Run
 python bert_main.py
 
-Sample Input
+Sample Input:
 we were both young when i first saw you
 
 Sample Output
